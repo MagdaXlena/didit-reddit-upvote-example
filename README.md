@@ -1,3 +1,10 @@
+Requirements met in this assignment:
+- project cloned and deployed to Vercel,
+- page titles on post pages fixed to match the post title,
+- added the error message when you click to vote while not logged in.
+
+
+
 ## Upvote
 
 Upvote is a Reddit-esque web application that allows users to create posts, upvote and downvote posts, and comment on posts in a multi-threaded, nested list.
